@@ -10,6 +10,7 @@ function App() {
       <Header />
       <h2>Hello From React</h2>
       <h3>Made { x ? 'by ' + name : 'on ' + date }</h3>
+      <h3>What do you know?</h3>
     </div>
   );
 }
